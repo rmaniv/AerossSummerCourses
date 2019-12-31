@@ -10,7 +10,7 @@ The 2019 Aeross Summer Courses cover all essential knowledge required to start s
 
 ## Need Statement
 
-Making cubesats, launching a high altitude balloon and pursuing other aerospace projects require an understanding of complex ideas that one learns about at University, impelling all Aeross members to indulge in rigorous, extensive research. The journey is extremely arbitrary, and should be made systematic. To address this need, we decided to develop a free summer programme for our juniors to introduce them to relevant concepts.
+Making cubesats, launching a high altitude balloon and pursuing other aerospace projects require an understanding of complex ideas that one learns about at University, impelling all high school aerospace enthusiasts to indulge in rigorous, extensive research. The journey is extremely arbitrary, and should be made systematic. To address this need, we decided to develop a free summer programme for our juniors to introduce them to relevant concepts.
 
 ## Teaching Methodology
 
