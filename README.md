@@ -6,7 +6,7 @@
 
 ## Brief Description
 
-The 2019 Aeross Summer Courses cover all essential knowledge required to pursue projects like Nanosatellites, High Altitude Balloon and other educational aerospace projects and to start solving problems faced by the aerospace industry. The course was systematically designed and divided into relevant modules, covering Aerospace, Basics of Flight, Applications of Electronics in Aerospace and 3D Modelling.
+The 2019 Aeross Summer Courses cover all essential knowledge required to start solving problems faced by the aerospace industry and pursue projects like Nanosatellites, High Altitude Balloon and other educational aerospace projects. The course was systematically designed and divided into relevant modules, covering Aerospace, Basics of Flight, Applications of Electronics in Aerospace and 3D Modelling.
 
 ## Need Statement
 
